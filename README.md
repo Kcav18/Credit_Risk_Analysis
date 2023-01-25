@@ -15,34 +15,34 @@ This project consists of three technical analysis deliverables and a written rep
 
 ## Results
 
-### Use Resampling Models to Predict Credit Risk**
+### Use Resampling Models to Predict Credit Risk
 
 ***<ins>Naive Random Oversampling</ins>***
 
-![Naive Random Oversampling]()
+![Naive Random Oversampling](https://github.com/Kcav18/Credit_Risk_Analysis/blob/main/Images/Naive%20_Random%20_Oversampling.png)
 
 ***<ins>SMOTE Oversampling</ins>***
 
-![SMOTE Oversampling]()
+![SMOTE Oversampling](https://github.com/Kcav18/Credit_Risk_Analysis/blob/main/Images/Smote_Oversampling.png)
 
 ***<ins>Undersampling</ins>***
 
-![Undersampling]()
+![Undersampling](https://github.com/Kcav18/Credit_Risk_Analysis/blob/main/Images/Undersampling.png)
 
 ### Use the SMOTEENN Algorithm to Predict Credit Risk
 
-***<ins>SMOTEENN</ins>***
+***<ins>Combination Sampling</ins>***
 
-![SMOTEENN]()
+![Combination Sampling](https://github.com/Kcav18/Credit_Risk_Analysis/blob/main/Images/Combination_Sampling.png)
 
 ### Use Ensemble Classifiers to Predict Credit Risk**
 
 ***<ins>Balanced Random Forest Classifier</ins>***
 
-![Balanced Random Forest Classifier]()
+![Balanced Random Forest Classifier](https://github.com/Kcav18/Credit_Risk_Analysis/blob/main/Images/Balanced_Random_Forest_Classifer.png)
 
 ***<ins>Easy Ensemble AdaBoost Classifier</ins>***
 
-![Easy Ensemble AdaBoose Classifier]()
+![Easy Ensemble AdaBoose Classifier](https://github.com/Kcav18/Credit_Risk_Analysis/blob/main/Images/Easy_Ensemble_AdaBoost.png)
 
 ## Summary

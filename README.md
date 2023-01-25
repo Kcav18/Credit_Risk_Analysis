@@ -8,11 +8,41 @@ Using a credit card credit dataset from LendingClub, a peer-to-peer lending serv
 
 This project consists of three technical analysis deliverables and a written report:
 
-Deliverable 1: Use Resampling Models to Predict Credit Risk.
-Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk.
-Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk.
-Deliverable 4: A Written Report on the Credit Risk Analysis 
+- Deliverable 1: Use Resampling Models to Predict Credit Risk.
+- Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk.
+- Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk.
+- Deliverable 4: A Written Report on the Credit Risk Analysis 
 
 ## Results
+
+### Use Resampling Models to Predict Credit Risk**
+
+***<ins>Naive Random Oversampling</ins>***
+
+![Naive Random Oversampling]()
+
+***<ins>SMOTE Oversampling</ins>***
+
+![SMOTE Oversampling]()
+
+***<ins>Undersampling</ins>***
+
+![Undersampling]()
+
+### Use the SMOTEENN Algorithm to Predict Credit Risk
+
+***<ins>SMOTEENN</ins>***
+
+![SMOTEENN]()
+
+### Use Ensemble Classifiers to Predict Credit Risk**
+
+***<ins>Balanced Random Forest Classifier</ins>***
+
+![Balanced Random Forest Classifier]()
+
+***<ins>Easy Ensemble AdaBoost Classifier</ins>***
+
+![Easy Ensemble AdaBoose Classifier]()
 
 ## Summary

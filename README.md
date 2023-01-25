@@ -90,7 +90,7 @@ The details of Easy Ensemble AdaBoost are as follows:
 
 ## Summary
 
-The Easy Ensemble AdaBoost Classifier is the best model out of those used for predicting credit risk. The Balanced Random Forest Classifier comes in second place! These models had the highest balanced accuracy scores, meaning they performed better than the other methods to correctly classify high and low risk loans. The Easy Ensemble AdaBoose Classifier had a balanced accuracy score of 93%. There does however appear to be issues with the precision and recall scores with all models- including the Easy Ensemble AdaBoose Classifier. I think the Easy Ensemble AdaBoost is the best option with the models we used but it wouldnt be a bad idea to investigate other options that might balance the accuracy, precision, and recall better. I also think that regardless of the model that is used, quality checks from human specialists would be a great idea!
+The Easy Ensemble AdaBoost Classifier is the best model out of those used for predicting credit risk. The Balanced Random Forest Classifier comes in second place! These models had the highest balanced accuracy scores, meaning they performed better than the other methods to correctly classify high and low risk loans. The Easy Ensemble AdaBoose Classifier had a balanced accuracy score of 93%. There does however appear to be issues with the precision scores with all models- including the Easy Ensemble AdaBoose Classifier. I think the Easy Ensemble AdaBoost is the best option with the models we used but it wouldnt be a bad idea to investigate other options that might balance the accuracy, precision, and recall scores better. I also think that regardless of the model that is chosen, quality checks from human specialists would be a great idea!
 
 
 

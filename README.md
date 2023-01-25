@@ -21,13 +21,34 @@ This project consists of three technical analysis deliverables and a written rep
 
 ![Naive Random Oversampling](https://github.com/Kcav18/Credit_Risk_Analysis/blob/main/Images/Naive%20_Random%20_Oversampling.png)
 
+The details of the Naive Random Oversampling are as follows:
+- Balanced Accuracy Score: 65% (Meaning that this model predicted the credit risk accurately 65% of the time)
+- Precision of high risk: 0.01
+- Precision of low risk: 1.00 
+- Recall Score of high risk: 68%  
+- Recall Score of low risk: 62%
+
 ***<ins>SMOTE Oversampling</ins>***
 
 ![SMOTE Oversampling](https://github.com/Kcav18/Credit_Risk_Analysis/blob/main/Images/Smote_Oversampling.png)
 
+The details of SMOTE Oversampling are as follows:
+- Balanced Accuracy Score: 66% (Meaning that this model predicted the credit risk accurately 66% of the time)
+- Precision of high risk: 0.01
+- Precision of low risk: 1.00 
+- Recall Score of high risk: 63%  
+- Recall Score of low risk: 68%
+
 ***<ins>Undersampling</ins>***
 
 ![Undersampling](https://github.com/Kcav18/Credit_Risk_Analysis/blob/main/Images/Undersampling.png)
+
+The details of Undersampling are as follows:
+- Balanced Accuracy Score: 54% (Meaning that this model predicted the credit risk accurately 54% of the time)
+- Precision of high risk: 0.01
+- Precision of low risk: 1.00 
+- Recall Score of high risk: 69%  
+- Recall Score of low risk: 40%
 
 ### Use the SMOTEENN Algorithm to Predict Credit Risk
 
@@ -35,14 +56,42 @@ This project consists of three technical analysis deliverables and a written rep
 
 ![Combination Sampling](https://github.com/Kcav18/Credit_Risk_Analysis/blob/main/Images/Combination_Sampling.png)
 
+The details of Combination Sampling are as follows:
+- Balanced Accuracy Score: 68% (Meaning that this model predicted the credit risk accurately 68% of the time)
+- Precision of high risk: 0.01
+- Precision of low risk: 1.00 
+- Recall Score of high risk: 76%  
+- Recall Score of low risk: 59%
+
+
 ### Use Ensemble Classifiers to Predict Credit Risk**
 
 ***<ins>Balanced Random Forest Classifier</ins>***
 
 ![Balanced Random Forest Classifier](https://github.com/Kcav18/Credit_Risk_Analysis/blob/main/Images/Balanced_Random_Forest_Classifer.png)
 
+The details of Balanced Random Forest Classifier are as follows:
+- Balanced Accuracy Score: 79% (Meaning that this model predicted the credit risk accurately 79% of the time)
+- Precision of high risk: 0.03
+- Precision of low risk: 1.00 
+- Recall Score of high risk: 70%  
+- Recall Score of low risk: 87%
+
 ***<ins>Easy Ensemble AdaBoost Classifier</ins>***
 
-![Easy Ensemble AdaBoose Classifier](https://github.com/Kcav18/Credit_Risk_Analysis/blob/main/Images/Easy_Ensemble_AdaBoost.png)
+![Easy Ensemble AdaBoost Classifier](https://github.com/Kcav18/Credit_Risk_Analysis/blob/main/Images/Easy_Ensemble_AdaBoost.png)
+
+The details of Easy Ensemble AdaBoost are as follows:
+- Balanced Accuracy Score: 93% (Meaning that this model predicted the credit risk accurately 93% of the time)
+- Precision of high risk: 0.09
+- Precision of low risk: 1.00 
+- Recall Score of high risk: 92%  
+- Recall Score of low risk: 94%
 
 ## Summary
+
+The Easy Ensemble AdaBoost Classifier is the best model out of those used for predicting credit risk. The Balanced Random Forest Classifier comes in second place! These models had the highest balanced accuracy scores, meaning they performed better than the other methods to correctly classify high and low risk loans. The Easy Ensemble AdaBoose Classifier had a balanced accuracy score of 93%. There does however appear to be issues with the precision and recall scores with all models- including the Easy Ensemble AdaBoose Classifier. I think the Easy Ensemble AdaBoost is the best option with the models we used but it wouldnt be a bad idea to investigate other options that might balance the accuracy, precision, and recall better. I also think that regardless of the model that is used, quality checks from human specialists would be a great idea!
+
+
+
+
